@@ -12,7 +12,6 @@
 - 🎓 I'm currently pursuing **B.E. in Computer Science and Business Systems**  
 - 🔍 I’m deeply interested in **AI, Data Science, and Smart Applications**
 - 🛠️ I love building tech that solves real-life problems
-- 🏆 3x Semester Topper | CGPA: **9.07**
 - 📫 Reach me at: **prathikshabaleri15@gmail.com**
 - 🌐 [LinkedIn](https://www.linkedin.com/in/prathiksha-baleri)
 
@@ -53,5 +52,5 @@
 
 
 ### ☕ Fun Fact:
-> I believe great tech should be **simple, helpful, and human**. And I love coding with music 🎵 and coffee ☕!
+> I believe great tech should be **simple, helpful **. And I love coding with music 🎵 and coffee ☕!
 
